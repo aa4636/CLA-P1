@@ -1,5 +1,3 @@
-C Program to check given number is prime or not.
-
 #include<stdio.h>
 #include<conio.h>
 void main(){
